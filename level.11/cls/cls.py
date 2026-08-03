@@ -20,7 +20,7 @@ else:
 #სხვა შემთხვევაში დაბეჭდე "რიცხვი არ არის დადებითი"
 num=int(input("Enter your number: "))
 if num>0:
-    if num%2:
+    if num%2==0:
         print(" დადებითი ლუწი")
     else:
         print("დადებითი კენტი")
