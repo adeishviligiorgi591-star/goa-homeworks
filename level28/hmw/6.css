@@ -1,0 +1,42 @@
+#div1{
+  background-color: yellow;
+  text-align: center;
+  height: 355px;
+  font-size: 40px;
+ border: solid green 15px;
+ border-radius: 15px;
+}
+#div2{
+    background-color: orange;
+    font-size: 50px;
+    border: solid black 15px;
+    border-radius: 15px;
+    text-align: center;
+}
+#div3{
+    background-color: purple;
+  text-align: center;
+  height: 355px;
+  font-size: 40px;
+ border: solid rgb(24, 15, 157) 15px;
+ border-radius: 15px;
+}
+a{
+    text-align: center;
+    font-size: 30px;
+}
+#div4{
+ background-color: orange;
+    width: 700px;
+    border: solid black 15px;
+    border-radius: 15px;
+    text-align: center;    
+}
+#div5{
+ background-color: yellowgreen;
+    width: 700px;
+    border: solid rgb(208, 14, 98) 15px;
+    border-radius: 15px;
+    text-align: left;
+    font-size: 30px;
+}
