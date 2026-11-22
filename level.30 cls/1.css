@@ -1,0 +1,15 @@
+#red{
+    background-color: rgb(0, 0, 255);
+    width: 200px;
+    height: 200px;
+}
+#green{
+    background-color: rgb(255, 0, 0);
+    width: 200px;
+    height: 200px;
+}
+#blue{
+    background-color:rgb(0, 255, 0);
+    width: 200px;
+    height: 200px;
+}
